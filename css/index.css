@@ -1,0 +1,50 @@
+
+/*ÂÖ²¥Í¼*/
+.img-lb{
+    width:100%;
+}
+.img-p{
+    position:relative;
+}
+.img-p img{
+    width: 150%;
+    margin-left: -30%;
+    height:583px;
+}
+.quick{
+    padding:1.2rem 0;
+}
+.quick img{
+    width: 57px;
+    height: 57px;
+}
+.product-img{
+    height:45px;
+}
+/*Í¼±êÐÐ*/
+.product-border{
+    border-bottom:2px solid transparent;
+}
+.product-border a{
+    color:#000;
+}
+.product-border:hover{
+    border-bottom-color: deepskyblue;
+}
+
+.product-item{
+    background:#f8fbff;
+
+}
+.product-item div{
+    font-size: 14px;
+    color:#999;
+}
+.case .case-img{
+    display: block;
+    width:100% !important;
+}
+.apply-title{
+    background: url(../images/index/point-bg.jpg) no-repeat;
+    background-size: 100% 100%;
+}

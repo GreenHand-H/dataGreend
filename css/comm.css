@@ -1,0 +1,61 @@
+@media screen and (max-width:900px) {
+    .dh-header ul{
+        background:rgba(0,0,0,0.1);
+    }
+
+}
+a:hover{
+    text-decoration: none !important;
+}
+.row{
+    margin-left: 0;
+    margin-right:0;
+}
+/*上面是修改boot*/
+.dh-header{
+    position: absolute;
+    top:0;
+    width:100%;
+    z-index: 23;
+    border-bottom: 1px solid rgba(255,255,255,0.5);
+}
+.dh-header a{
+    color:#fff !important;
+}
+.dh-header>div{
+background-color:transparent;
+}
+.header-logo{
+    width:7rem;
+}
+.header-logo img{
+    width:100%;
+    height:100%;
+}
+.header-login>button{
+    background-color: #187afa;
+    color:#fff;
+}
+.header-login>a{
+    display: inline-block;
+    padding: 0.5rem 1rem;
+}
+.dg-footer{
+    background-color:#131b33;
+}
+.footer-img{
+    width:5rem;
+}
+.footer-text li{
+    margin:3px 0;
+}
+.footer-f-c {
+    color: hsla(0,0%,100%,.6) !important;
+    font-size: 14px !important;
+}
+.footer-text li a:hover{
+    color:#fff !important;
+}
+.footer-code{
+    width:5rem;
+}
