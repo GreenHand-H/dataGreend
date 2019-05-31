@@ -1,0 +1,17 @@
+.text-review{
+    background-color: #1f263f;
+    height:498px;
+    position: relative;
+    z-index: -2;
+}
+.title{
+    margin-top:165px;b
+}
+.prod-img{
+    width:30rem;
+    height:30rem;
+    position: absolute;
+    bottom: -9rem;
+    right:0;
+    z-index: -1;
+}
