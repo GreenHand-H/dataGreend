@@ -1,0 +1,24 @@
+.join-banner{
+   position: relative;
+    background-color: #061243;
+    padding: 10px 0;
+}
+.join-banner-text{
+    position: absolute;
+    top:40%;
+    left:32%;
+    right:32%;
+}
+.welfare{
+    background-color: #f1fbfe;
+    padding: 30px 0;
+}
+.join-plan{
+    padding:30px 0;
+    background:#061243;
+}
+.div-fixed{
+    height:4px;
+    width:54px;
+    background-color:#0073eb;
+}

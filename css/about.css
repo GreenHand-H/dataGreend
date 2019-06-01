@@ -1,0 +1,54 @@
+.about-datagrand{
+    background:#192138;
+}
+.block1-img1{
+    background:url("../images/about/block01-1-locate-bg.png") no-repeat;
+}
+.block1-img2{
+    background:url("../images/about/block01-2-locate-bg.png") no-repeat;
+}
+.block1-img3{
+    background:url("../images/about/block01-3-locate-bg.png") no-repeat;
+}
+.block1-img4{
+    background:url("../images/about/block01-4-locate-bg.png") no-repeat;
+}
+.block1-img1,.block1-img2,.block1-img3,.block1-img4{
+    background-size:100% 100%;
+    color:#fff;
+    padding:40px 0px 40px 20px;
+}
+.about-us-block{
+    position: relative;
+    padding:30px 0;
+}
+.about-us-absolute{
+    position: absolute;
+    top:-5%;
+    left: 0;
+    width:100%;
+    font:900 140px normal ;
+    color:#9da4ba;
+    z-index:-1;
+    opacity: .1;
+}
+.about-us-block2{
+    background: url("../images/about/about-us-bg02-new.jpg") no-repeat;
+    background-size:100% 100%;
+    z-index: -3;
+}
+.about-bg-1{
+    background: url("../images/about/about-us-block1-01.png") no-repeat;
+    background-size: 100% 100%;
+    padding:30px 15px;
+}
+.about-bg-2{
+    background: url("../images/about/about-us-block1-02.png") no-repeat;
+    background-size: 100% 100%;
+    padding:30px 15px;
+}
+.about-us-block4{
+    background: url("../images/about/about-us-bg04.jpg") no-repeat;
+    background-size:100% 100%;
+    z-index: -3;
+}

@@ -5,7 +5,7 @@
     z-index: -2;
 }
 .title{
-    margin-top:165px;b
+    margin-top:165px;
 }
 .prod-img{
     width:30rem;
@@ -14,4 +14,52 @@
     bottom: -9rem;
     right:0;
     z-index: -1;
+}
+.tm-intro{
+    padding:55px 0;
+
+}
+.cont-intro{
+    padding:34px;
+    margin-top:50px;
+    background:#f9fcfd;
+}
+.tm-special .cont-intro{
+    background:#fff;
+}
+.tm-special{
+    padding: 55px 0;
+}
+.img-frame{
+    width:100%;
+    margin-top:100px;
+}
+.tm-frame{
+    background:url("../images/product/tm-frame-bg.jpg") no-repeat;
+    padding:30px 0;
+}
+.text-frame{
+    margin:0 auto;
+    padding-left: 30px;
+    margin-top:130px;
+}
+.intro-item-ico{
+    display: inline-block;
+    width:8px;
+    height:8px;
+    border-radius: 50%;
+    background-color: #2ed863;
+}
+.tm-effect{
+    background: url("../images/product/textmining-bg-01.jpg") no-repeat;
+   margin:30px 0;
+    padding: 40px 0;
+}
+.text-effect{
+    margin-top:200px;
+    color:#fff;
+}
+.img-effect{
+    width:100%;
+    margin:50px 0;
 }
